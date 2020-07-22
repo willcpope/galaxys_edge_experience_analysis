@@ -19,10 +19,15 @@ For this analysis, I focused on experience data collected from:
 * Twitter
 * Google Trends
 
-## Survey Data
+## Online Survey Data
+I created a survey using Google Forms and collected 165 responses from Reddit subreddits including r/
+
+### Age Participants
 ![Age](images/age.png)
 ![Ages Grouped](images/age_grouped.png)
 ![Ages Seperate](images/age_seperate.png)
+
+Below are the correlations
 ![Corr Matrix](images/corrmatrix.png)
 ![Clustermap](images/clustermap.png)
 
