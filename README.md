@@ -1,5 +1,5 @@
 # Star Wars: Galaxy's Edge Experiential Data Analysis
-Star Wars: Galaxy's Edge is one of the most ambitous and immersive themed experiences ever created. It opened at Disneland in Anaheim, California on May 31, 2019 and Hollywood Studios at Walt Disney World in Orlando, Florida on August 29, 2019. Each of these 2 themed areas cost an estimated $1 billion and feature over 14 acres of attractions, shops, and restaurants.
+Star Wars: Galaxy's Edge is one of the most ambitous and immersive themed experiences ever created. It opened at Disneyland in Anaheim, California on May 31, 2019 and Hollywood Studios at Walt Disney World in Orlando, Florida on August 29, 2019. Each of these 2 themed areas cost an estimated $1 billion and feature over 14 acres of attractions, shops, and restaurants.
 
 ## Data Sources
 There are 2 types of data: operational data and experience data. 
