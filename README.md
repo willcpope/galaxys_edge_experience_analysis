@@ -23,12 +23,25 @@ O-data tells you what happened. X-data tells you why it’s happening.
 ![Clustermap](images/clustermap.png)
 
 ## Sentiment Analysis
+![Daily Sentiment](images/daily_sentiment.png)
+![Negative Cloud](images/negative_cloud.png)
+![Neutral Cloud](images/neutral_cloud.png)
+![Polarity Histogram](images/polarity_histogram.png)
+![Positive Cloud](images/positive_cloud.png)
+![Sentiment Analysis](images/sentiment_analysis.png)
+![Word Cloud](images/word_cloud.png)
+![Word Count](images/word_count.png)
 
 ## Clustering
-![Age](images/age.png)
-![Age](images/age.png)
-![Age](images/age.png)
-![Age](images/age.png)
-![Age](images/age.png)
-![Age](images/age.png)
+![Cluster 1](images/cluster1.png)
+![Cluster 2](images/cluster2.png)
+![Cluster 3](images/cluster3.png)
+![Elbow](images/elbow.png)
+![Scatter](images/scatter.png)
+![Top Features](images/top_features.png)
+
+## Search Trends
+![Monthly Searches](images/monthly_searches.png)
+![State Searches](images/state_searches.png)
+![Trend Map](images/trend_map.png)
 
