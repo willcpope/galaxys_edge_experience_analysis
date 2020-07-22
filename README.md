@@ -1,24 +1,18 @@
 # Star Wars: Galaxy's Edge Experiential Data Analysis
-
-## Analysis
 Star Wars: Galaxy's Edge is one of the most ambitous and immersive themed experiences ever created. It opened at Disneland in Anaheim, California on May 31, 2019 and Hollywood Studios at Walt Disney World in Orlando, Florida on August 29, 2019. Each of these 2 themed areas cost an estimated $1 billion and feature over 14 acres of attractions, shops and restaurants.
-
-
 
 ## Data Sources
 There are 2 types of data: operational data and experience data. 
 
-* Operational Data - tangible records of tangible activities like sales (tickets, merchandise, concessions), finance and HR.
-* Experience Data - human feedback that points to the gaps between what you think is happening and what’s really happening. 
+### Operational Data
+* Tangible records of tangible activities like sales (tickets, merchandise, concessions), finance and HR
+* Data about the past
+* Tells you what happened
 
-
-
-
-
-
-O-data is data about the past. X-data is about the future. 
-
-O-data tells you what happened. X-data tells you why it’s happening.
+### Experience Data
+* Human feedback that points to the gaps between what you think is happening and what’s really happening
+* Data about the future
+* Tells you why it's happening
 
 ## Survey Data
 ![Age](images/age.png)
