@@ -14,7 +14,7 @@ There are 2 types of data: operational data and experience data.
 * Data about the future
 * Tells you why it's happening
 
-For this analysis, I am focusing on experience data collected from:
+For this analysis, I focused on experience data collected from:
 * Online Survey
 * Twitter
 * Google Trends
@@ -48,4 +48,3 @@ For this analysis, I am focusing on experience data collected from:
 ![Monthly Searches](images/monthly_searches.png)
 ![State Searches](images/state_searches.png)
 ![Trend Map](images/trend_map.png)
-
