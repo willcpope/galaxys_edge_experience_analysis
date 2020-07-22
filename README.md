@@ -25,4 +25,10 @@ O-data tells you what happened. X-data tells you why it’s happening.
 ## Sentiment Analysis
 
 ## Clustering
+![Age](images/age.png)
+![Age](images/age.png)
+![Age](images/age.png)
+![Age](images/age.png)
+![Age](images/age.png)
+![Age](images/age.png)
 
