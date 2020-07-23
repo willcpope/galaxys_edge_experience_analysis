@@ -47,11 +47,11 @@ Below are the correlations
 ![Word Count](images/word_count.png)
 
 ## Clustering
+![Elbow](images/elbow.png)
+![Scatter](images/scatter.png)
 ![Cluster 1](images/cluster1.png)
 ![Cluster 2](images/cluster2.png)
 ![Cluster 3](images/cluster3.png)
-![Elbow](images/elbow.png)
-![Scatter](images/scatter.png)
 ![Top Features](images/top_features.png)
 
 ## Search Trends
