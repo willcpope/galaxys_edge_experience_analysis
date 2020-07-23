@@ -70,7 +70,10 @@ I used the Natural Language Toolkit to determine polarity. Sentiment is determin
 
 ![Polarity Histogram](images/polarity_histogram.png)
 
-Based on the polarity scores, you can see that overall sentiment is mostly neurtral and positive.
+Sentiment Scores:
+* 47.5% Positive
+* 41.3% Neurtal
+* 11.2% Negative
 
 ![Sentiment Analysis](images/sentiment_analysis.png)
 
@@ -119,3 +122,24 @@ Numbers represent search interest relative to the highest point on the chart for
 ### Interest by State
 ![State Searches](images/state_searches.png)
 ![Trend Map](images/trend_map.png)
+
+## Findings
+* Galaxy's Edge has had a very positive reception on Twitter with 88.8% of Tweets being either positive or neutral and only 11.2% of Tweets classified as negative.
+
+* The attractions are the most important aspect and Rise of the Resistance was selected as the top aspect and is also promiment in the sentiment scores and top words used
+
+* Lightsaber scored high
+
+* After attractions, Ogas Cantina is most important for all ages groups accept 55-64 and Under 18. Those age groups listed shopping as the next priority - specifically Droid Depot and Savis.
+
+* Den of Antiquities is an important shopping destination across all ages groups - cool collectibles and unique shopping - shop meets museum
+
+* Correlation in Savis and Droid Depot because it's a customized gift
+
+* Experience in word cloud - check other words like Lightsaber
+
+* Most immersive to live in universe by paying money for either an experience or item that you choose
+
+* Passive dark ride more popular
+
+* Popularity of alcohol
