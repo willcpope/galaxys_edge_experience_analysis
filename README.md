@@ -111,6 +111,11 @@ Every word in the processed text dataset is given a score to determine which wor
 ![Top Features](images/top_features.png)
 
 ## Search Trends
+Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.
+
+### Interest Over Time
 ![Monthly Searches](images/monthly_searches.png)
+
+### Interest by State
 ![State Searches](images/state_searches.png)
 ![Trend Map](images/trend_map.png)
