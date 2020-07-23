@@ -34,6 +34,7 @@ I created a survey using Google Forms and collected 165 responses from various R
 * r/Disneyland
 
 ### Age Participants
+
 ![Age](images/age.png)
 ![Ages Grouped](images/age_grouped.png)
 ![Ages Seperate](images/age_seperate.png)
