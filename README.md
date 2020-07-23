@@ -84,7 +84,10 @@ Based on the polarity scores, you can see that overall sentiment is mostly neurt
 ![Negative Cloud](images/negative_cloud.png)
 
 ## Clustering
-To further analyze processed text from the Twitter dataset, I used the k-means clustering algorithm with the scikit-learn machine learning library. To do this I used the elbow method to determine the optimal number of clusters which in this case is 3.
+To further analyze processed text from the Twitter dataset, I used the k-means clustering algorithm with the scikit-learn machine learning library. 
+
+### Determining the Number of Clusters
+To do this I used the elbow method to determine the optimal number of clusters which in this case is 3.
 
 ![Elbow](images/elbow.png)
 
@@ -92,10 +95,19 @@ Below is a visualization of the 3 clusters of processed text from the Twitter da
 
 ![Scatter](images/scatter.png)
 
+### Most Important Words
+Every word in the processed text dataset is given a score to determine which words are most important to make the cluster.
 
+#### Cluster 1
 ![Cluster 1](images/cluster1.png)
+
+#### Cluster 2
 ![Cluster 2](images/cluster2.png)
+
+#### Cluster 3
 ![Cluster 3](images/cluster3.png)
+
+### Top Words
 ![Top Features](images/top_features.png)
 
 ## Search Trends
