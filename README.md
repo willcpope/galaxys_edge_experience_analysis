@@ -54,16 +54,28 @@ The clustermap groups experiences together for a different view of correlations.
 ![Clustermap](images/clustermap.png)
 
 ## Twitter Sentiment Analysis
-For the Twitter sentiment analysis, I used a dataset of 43,158 tweets using the hashtag #galaxysedge from 10/17/19 to 7/15/20.
+For the Twitter sentiment analysis, I used a dataset of 43,158 tweets using the hashtag #galaxysedge from 10/17/19 to 7/15/20. Below are 2 visualizations of the top words in the dataset after text processing with the Natural Language Toolkit.
 
-![Daily Sentiment](images/daily_sentiment.png)
-![Negative Cloud](images/negative_cloud.png)
-![Neutral Cloud](images/neutral_cloud.png)
-![Polarity Histogram](images/polarity_histogram.png)
-![Positive Cloud](images/positive_cloud.png)
-![Sentiment Analysis](images/sentiment_analysis.png)
-![Word Cloud](images/word_cloud.png)
 ![Word Count](images/word_count.png)
+![Word Cloud](images/word_cloud.png)
+
+
+### Determining Sentiment
+I used the Natural Language Toolkit to determine polarity (positive, neutral, or negative sentiment). Based on the polarity histogram below, you can see that sentiment is mostly neurtral and positive.
+
+![Polarity Histogram](images/polarity_histogram.png)
+![Sentiment Analysis](images/sentiment_analysis.png)
+
+### Words Used With Positive Sentiment
+![Positive Cloud](images/positive_cloud.png)
+
+### Words Used With Neutral Sentiment
+![Neutral Cloud](images/neutral_cloud.png)
+
+### Words Used With Negative Sentiment
+![Negative Cloud](images/negative_cloud.png)
+
+
 
 ## Clustering
 ![Elbow](images/elbow.png)
