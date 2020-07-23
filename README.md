@@ -1,7 +1,5 @@
 # Star Wars: Galaxy's Edge Experience Data Analysis
-The goal of this project was to analyze guest feedback data (i.e. beliefs, emotions, and sentiments) and identify gaps
-
-points to the gaps between what you think is happening and what’s really happening. "
+The goal of this project was to analyze guest feedback (i.e. beliefs, emotions, and sentiments) about Star Wars: Galaxy's Edge and identify new competitive advantages in hidden patterns by better understanding the fans.
 
 Star Wars: Galaxy's Edge is one of the most ambitous and immersive themed experiences ever created. It opened at Disneyland in Anaheim, California on May 31, 2019 and Hollywood Studios at Walt Disney World in Orlando, Florida on August 29, 2019. Each of these 2 themed areas cost an estimated $1 billion and feature over 14 acres of attractions, shops, and restaurants.
 
@@ -24,7 +22,16 @@ For this analysis, I focused on experience data collected from:
 * Google Trends
 
 ## Online Survey Data
-I created a survey using Google Forms and collected 165 responses from Reddit subreddits including r/
+I created a survey using Google Forms and collected 165 responses from various Reddit subreddits including: 
+
+* r/StarWars 
+* r/WaltDisneyWorld 
+* r/disneyparks 
+* r/DisneyWorld 
+* r/Disneybound 
+* r/GalaxiesEdge 
+* r/DisneyTravel 
+* r/Disneyland
 
 ### Age Participants
 ![Age](images/age.png)
