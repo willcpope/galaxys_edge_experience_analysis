@@ -39,17 +39,23 @@ Below is a pie chart that visualizes survey participation by age group. Ages 25-
 ![Age](images/age.png)
 
 ### Experience Ranking by Age Group
-Below you'll see the ranked importance of each experience by age group.
+Below you'll see the ranked importance of each experience by age group. Across all age groups, the most important experiences are the rides with Rise of the Resistance as #1 and Smugglers Run as #2. After the attraction, the middle three age groups comprising 18-44 were most interested in Ogas Cantina after the attractions while both the youngest and oldest age groups were interested in the shopping experiences primarily Savis and Droid Depot. Den of Antiquities is a popular shopping location across all age groups. Den of Antiquties is like a souvenir shop meets museum.
 
 ![Ages Grouped](images/age_grouped.png)
 ![Ages Seperate](images/age_seperate.png)
 
 ### Correlations
-Below are the correlations
+Below are the correlations between experiences. The darker the blue, the more likely someone is to be interested in those experiences together. We see that Savis and Droid Depot are both of interest together.
+
 ![Corr Matrix](images/corrmatrix.png)
+
+The clustermap groups experiences together for a different view of correlations.
+
 ![Clustermap](images/clustermap.png)
 
-## Sentiment Analysis
+## Twitter Sentiment Analysis
+For the Twitter sentiment analysis, I used a dataset of 43,158 tweets using the hashtag #galaxysedge from 10/17/19 to 7/15/20.
+
 ![Daily Sentiment](images/daily_sentiment.png)
 ![Negative Cloud](images/negative_cloud.png)
 ![Neutral Cloud](images/neutral_cloud.png)
