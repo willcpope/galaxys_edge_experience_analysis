@@ -62,9 +62,16 @@ For the Twitter sentiment analysis, I used a dataset of 43,158 tweets using the 
 
 
 ### Determining Sentiment
-I used the Natural Language Toolkit to determine polarity (positive, neutral, or negative sentiment). Based on the polarity histogram below, you can see that sentiment is mostly neurtral and positive.
+I used the Natural Language Toolkit to determine polarity. Sentiment is determined by the following polarity scores:
+
+* Polarity greater than 0 is positive
+* Polarity equal to 0 is neutral
+* Polarity less than 0 is negative
 
 ![Polarity Histogram](images/polarity_histogram.png)
+
+Based on the polarity scores, you can see that overall sentiment is mostly neurtral and positive.
+
 ![Sentiment Analysis](images/sentiment_analysis.png)
 
 ### Words Used With Positive Sentiment
@@ -76,11 +83,16 @@ I used the Natural Language Toolkit to determine polarity (positive, neutral, or
 ### Words Used With Negative Sentiment
 ![Negative Cloud](images/negative_cloud.png)
 
-
-
 ## Clustering
+To further analyze processed text from the Twitter dataset, I used the k-means clustering algorithm with the scikit-learn machine learning library. To do this I used the elbow method to determine the optimal number of clusters which in this case is 3.
+
 ![Elbow](images/elbow.png)
+
+Below is a visualization of the 3 clusters of processed text from the Twitter dataset.
+
 ![Scatter](images/scatter.png)
+
+
 ![Cluster 1](images/cluster1.png)
 ![Cluster 2](images/cluster2.png)
 ![Cluster 3](images/cluster3.png)
