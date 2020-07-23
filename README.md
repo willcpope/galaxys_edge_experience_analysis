@@ -33,12 +33,18 @@ I created a survey using Google Forms and collected 165 responses from various R
 * r/DisneyTravel 
 * r/Disneyland
 
-### Age Participants
+### Age Groups of Survey Participants
+Below is a pie chart that visualizes survey participation by age group. Ages 25-34 represent the largest age group who participated in the survey. The next 2 largest age groups are the adjacent youngest and oldest age groups making the largest representation 18-44. The smallest participating age groups are the youngest (18 and under) and the oldest (65 plus).
 
 ![Age](images/age.png)
+
+### Experience Ranking by Age Group
+Below you'll see the ranked importance of each experience by age group.
+
 ![Ages Grouped](images/age_grouped.png)
 ![Ages Seperate](images/age_seperate.png)
 
+### Correlations
 Below are the correlations
 ![Corr Matrix](images/corrmatrix.png)
 ![Clustermap](images/clustermap.png)
