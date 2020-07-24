@@ -138,37 +138,38 @@ Google Trends also provides information about search topics and queries related 
 
 ## Findings
 
+### Star Wars: Galaxy's Edge is Popular
+* Star Wars: Galaxy's Edge has had a very positive reception on Twitter with 88.8% of Tweets being either positive or neutral and only 11.2% of Tweets classified as negative.
 
+### Rides Are Most Important
+* The survey data shows that all age groups rank the rides as the most important experiences with Star Wars: Rise of the Resistance as the most important followed by Millennium Falcon: Smugglers Run.
 
+### Oga's Cantina is an Important Experience for Ages 18-44
+* After the rides, the survey data revealed that the 3 largest participating age groups ranging from 18-44 years old rank Oga's Cantina as the next most important experience.
 
+### Savi's Workshop & Droid Depot Are Important Experiences for Ages Under 18 and 55-64
+* After the rides, the survey data revealed that both the youngest (Under 18) and oldest (55-64) participants prioritize shopping as most important, specifically Droid Depot and Savi's Workshop.
+
+### Dok-Ondar's Den of Antiquities is Popular Among All Age Groups
+
+Dok-Ondar's Den of Antiquities is a popular shopping location across all age groups. Den of Antiquties is like a souvenir shop meets museum.
 
 ---
 
-
-
 * Look up related search terms from Google Trends
-
-* Galaxy's Edge has had a very positive reception on Twitter with 88.8% of Tweets being either positive or neutral and only 11.2% of Tweets classified as negative.
-
-* Below you'll see the ranked importance of each experience by age group. Across all age groups, the most important experiences are the rides with Rise of the Resistance as #1 and Smugglers Run as #2. After the attraction, the middle three age groups comprising 18-44 were most interested in Ogas Cantina after the attractions while both the youngest and oldest age groups were interested in the shopping experiences primarily Savis and Droid Depot. Den of Antiquities is a popular shopping location across all age groups. Den of Antiquties is like a souvenir shop meets museum.
 
 * The attractions are the most important aspect and Rise of the Resistance was selected as the top aspect and is also promiment in the sentiment scores and top words used
 
 * We see that Savis and Droid Depot are both of interest together.
-
 * Lightsaber scored high
-
-* After attractions, Ogas Cantina is most important for all ages groups accept 55-64 and Under 18. Those age groups listed shopping as the next priority - specifically Droid Depot and Savis.
-
-* All age groups 18-44 accept youngest and oldest
+* Correlation in Savis and Droid Depot because it's a customized gift
+* Experience in word cloud - check other words like Lightsaber
 
 * Look at total word count
 
 * Den of Antiquities is an important shopping destination across all ages groups - cool collectibles and unique shopping - shop meets museum
 
-* Correlation in Savis and Droid Depot because it's a customized gift
 
-* Experience in word cloud - check other words like Lightsaber
 
 * Most immersive to live in universe by paying money for either an experience or item that you choose
 
