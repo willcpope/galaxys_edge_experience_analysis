@@ -160,9 +160,11 @@ Google Trends also provides information about search topics and queries related 
 * The sentiment analysis shows that the word 'droid' ranks just ahead of 'cantina'.
 * Google Trends data for Star Wars: Galaxy's Edge shows that of the most relevant top 25 related search topics, 'Lightsaber' is #2, 'Droid' is #6, 'Workshop' is #10, 'Saber' is #11, and 'Cantina' is #12
 
+### Star Wars: Rise of the Resistance and Savi's Workshop
+
+### Droid Depot and Oga's Cantina
+
 ---
-* Review Clusters
-* Savis and Cantina -  Most immersive to live in universe by paying money for either an experience or item that you choose. Word experience is in top 25
-* New header - rise and savis
+* think about paying for a custom experience - booze, lightsaber - is that different from food though?
 * Clusters - Rise of the Resitance, Baatu, and general overall experience not rise
 * Add bold and other decorations
