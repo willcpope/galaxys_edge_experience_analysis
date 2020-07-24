@@ -142,37 +142,24 @@ Google Trends also provides information about search topics and queries related 
 * Star Wars: Galaxy's Edge has had a very positive reception on Twitter with 88.8% of Tweets being either positive or neutral and only 11.2% of Tweets classified as negative.
 
 ### Rides Are Most Important
-* The survey data shows that all age groups rank the rides as the most important experiences with Star Wars: Rise of the Resistance as the most important followed by Millennium Falcon: Smugglers Run.
+* The survey data shows that all age groups rank the rides as the most important experiences
+* Star Wars: Rise of the Resistance is rated the most important ride followed by Millennium Falcon: Smugglers Run
+* The sentiment analysis identified the words 'resistance' and 'rise' as the the #2 and #3 most used words while 'falcon' and 'millennium' were ranked #14 and #24 respectfully. Perhaps this is an indication that guests prefer a passive dark ride rather than an interactive one.
 
 ### Oga's Cantina is an Important Experience for Ages 18-44
-* After the rides, the survey data revealed that the 3 largest participating age groups ranging from 18-44 years old rank Oga's Cantina as the next most important experience.
+* After the rides, the survey data revealed that the 3 largest participating age groups ranging from 18-44 years old rank Oga's Cantina as the next most important experience
 
-### Savi's Workshop & Droid Depot Are Important Experiences for Ages Under 18 and 55-64
-* After the rides, the survey data revealed that both the youngest (Under 18) and oldest (55-64) participants prioritize shopping as most important, specifically Droid Depot and Savi's Workshop.
-
-### Dok-Ondar's Den of Antiquities is Popular Among All Age Groups
-
-Dok-Ondar's Den of Antiquities is a popular shopping location across all age groups. Den of Antiquties is like a souvenir shop meets museum.
+### Shopping Experiences
+* After the rides, the survey data revealed that both the youngest (Under 18) and oldest (55-64) participants prioritize shopping as most important
+* Savi's Workshop is the top shopping experience for 45-54
+* Savi's Workshop and Droid Depot are tied for top shopping experience for Under 18
+* Savis's Workshop and Dok-Ondar's Den of Antiquities are tied for top shopping experience for 25-34 and 35-44
+* Black Spire Outfitters, Dok-Ondar's Den of Antiquities, Droid Depot, Savi's Workshop, and Toydarian Toymaker are all tied for top shopping experience for 55-64
+* Based on the correlation matrix, there is a strong correlation in interest between Savi's Workshop and Droid Depot. This means that people who visit one of these shopping experience are highly likely to visit the other
+* The popularity of Savi's Workshop can also be seen in the sentiment analysis as 'lightsaber' shows up as the #10 most used word ranked above words referencing Millennium Falcon: Smugglers Run, Droid Depot and Oga's Cantina.
+* The sentiment analysis shows that the word 'droid' ranks just ahead of 'cantina'.
+* Google Trends data for Star Wars: Galaxy's Edge shows that of the most relevant top 25 related search topics, 'Lightsaber' is #2, 'Droid' is #6, 'Workshop' is #10, 'Saber' is #11, and 'Cantina' is #12
 
 ---
-
-* Look up related search terms from Google Trends
-
-* The attractions are the most important aspect and Rise of the Resistance was selected as the top aspect and is also promiment in the sentiment scores and top words used
-
-* We see that Savis and Droid Depot are both of interest together.
-* Lightsaber scored high
-* Correlation in Savis and Droid Depot because it's a customized gift
-* Experience in word cloud - check other words like Lightsaber
-
-* Look at total word count
-
-* Den of Antiquities is an important shopping destination across all ages groups - cool collectibles and unique shopping - shop meets museum
-
-
-
-* Most immersive to live in universe by paying money for either an experience or item that you choose
-
-* Passive dark ride more popular
-
-* Popularity of alcohol
+* Review Clusters
+* Savis and Cantina -  Most immersive to live in universe by paying money for either an experience or item that you choose. Word experience is in top 25
