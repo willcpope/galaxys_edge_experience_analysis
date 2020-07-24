@@ -115,13 +115,19 @@ Each word in the processed dataset is given a tf-idf (term frequency-inverse doc
 #### Cluster 3
 ![Cluster 3](images/cluster3.png)
 
+### Top Words
 The visualization below show the top words in each cluster. This words can help determine hot topics during the timeframe of the dataset.
 
-### Top Words
 ![Top Features](images/top_features.png)
 
 ## Search Trends
-Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.
+Google Trends provides a way to measure public interest in a topic over a selected period of time. Google Trends doesn't tell you how many searches occured for a topic but it provides a popularity score from 0 to 100 that indicates interest:
+
+* 100 - peak popularity for the term
+* 50 - the term is half as popular
+* 0 - not enough data for this term
+
+Google Trends also provides information about search topics and queries related to the main topic you're researching.
 
 ### Interest Over Time
 ![Monthly Searches](images/monthly_searches.png)
@@ -131,6 +137,17 @@ Numbers represent search interest relative to the highest point on the chart for
 ![Trend Map](images/trend_map.png)
 
 ## Findings
+
+
+
+
+
+---
+
+
+
+* Look up related search terms from Google Trends
+
 * Galaxy's Edge has had a very positive reception on Twitter with 88.8% of Tweets being either positive or neutral and only 11.2% of Tweets classified as negative.
 
 * Below you'll see the ranked importance of each experience by age group. Across all age groups, the most important experiences are the rides with Rise of the Resistance as #1 and Smugglers Run as #2. After the attraction, the middle three age groups comprising 18-44 were most interested in Ogas Cantina after the attractions while both the youngest and oldest age groups were interested in the shopping experiences primarily Savis and Droid Depot. Den of Antiquities is a popular shopping location across all age groups. Den of Antiquties is like a souvenir shop meets museum.
