@@ -163,3 +163,6 @@ Google Trends also provides information about search topics and queries related 
 ---
 * Review Clusters
 * Savis and Cantina -  Most immersive to live in universe by paying money for either an experience or item that you choose. Word experience is in top 25
+* New header - rise and savis
+* Clusters - Rise of the Resitance, Baatu, and general overall experience not rise
+* Add bold and other decorations
