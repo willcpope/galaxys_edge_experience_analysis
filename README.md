@@ -1,5 +1,5 @@
 # Star Wars: Galaxy's Edge Experience Data Analysis
-![Bryant-Denny Stadium](images/starwars.jpg)
+![Galaxy's Edge](images/starwars.jpg)
 
 The goal of this analysis was to explore guest feedback about Star Wars: Galaxy's Edge and identify new competitive advantages in hidden patterns by better understanding fan beliefs, emotions, and sentiments. 
 
