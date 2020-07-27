@@ -150,7 +150,7 @@ Google Trends also provides information about search topics and queries related 
 ### Star Wars: Galaxy's Edge is Popular
 * Star Wars: Galaxy's Edge has had a very positive reception on Twitter with **88.8%** of Tweets being either positive or neutral and only **11.2%** of Tweets classified as negative.
 
-### Rides Are Most Important - Especially Rise of the Resistance
+### Rides Are Most Important - Especially Star Wars: Rise of the Resistance
 * The survey data shows that all age groups rank the rides as the most important experiences.
 * Star Wars: Rise of the Resistance is rated the most important ride followed by Millennium Falcon: Smugglers Run.
 * The sentiment analysis identified the words 'resistance' and 'rise' as the the **#2** and **#3** most used words while 'falcon' and 'millennium' were ranked **#14** and **#24** respectfully. Perhaps this is an indication that guests prefer a passive dark ride rather than an interactive experience.
