@@ -3,21 +3,21 @@ The goal of this analysis was to explore guest feedback about Star Wars: Galaxy'
 
 Star Wars is one of the highest-grossing media franchises of all time. Star Wars: Galaxy's Edge is one of the most ambitous and immersive experiences ever created and the largest themed areas at Disney Parks. It opened at Disneyland in Anaheim, California on May 31, 2019 and Hollywood Studios at Walt Disney World in Orlando, Florida on August 29, 2019. Each of these 2 themed areas cost an estimated $1 billion and feature over 14 acres of attractions, shops, and restaurants.
 
-## Technology & Methods
+## Technology
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-### Sentiment Analysis: Guest Feedback & Brand Monitoring
+### Natural Language Toolkit (NLTK)
+Sentiment Analysis: Guest Feedback & Brand Monitoring
 I used the Natural Language Toolkit for sentiment analysis of guest feedback to capture the core market sentiment towards Star Wars: Galaxy's Edge and its individual experiences.
 
-### K-Means Clustering: Guest Feedback
+### scikit-learn
+K-Means Clustering: Guest Feedback
 I used the k-means algorithm in the scikit-learn machine learning library to cluster guest feedback data.
 
-### Correlation: Survey Responses
-
-
-
-
-
+### Seaborn
+Survey Responses
+Correlations Matrix
+Clustermap
 
 ## Data Type
 There are 2 types of data: operational data and experience data. For this analysis, I used experience data.
@@ -172,7 +172,6 @@ Google Trends also provides information about search topics and queries related 
 * Savis's Workshop and Dok-Ondar's Den of Antiquities are tied for top shopping experience for 25-34 and 35-44
 * Black Spire Outfitters, Dok-Ondar's Den of Antiquities, Droid Depot, Savi's Workshop, and Toydarian Toymaker are all tied for top shopping experience for 55-64
 * The popularity of Savi's Workshop can also be seen in the sentiment analysis as 'lightsaber' shows up as the #10 most used word ranked above words referencing Millennium Falcon: Smugglers Run, Droid Depot and Oga's Cantina.
-
 
 ### Correlations Between Savi's Workshop and Droid Depot
 * Based on the correlation matrix, there is a strong correlation in interest between Savi's Workshop and Droid Depot. This means that people who visit one of these shopping experience are highly likely to visit the other
