@@ -64,7 +64,7 @@ The clustermap further groups experiences together by rearranging the experience
 ## Twitter Sentiment Analysis
 I analyzed a dataset of **43,158** tweets using the hashtag #galaxysedge from 10/17/19 to 7/15/20 to determine overall sentiment of Star Wars: Galaxy's Edge. 
 
-Visualization of the top 25 words in the dataset after text processing with the Natural Language Toolkit.
+Visualization of the top **25** words in the dataset after text processing with the Natural Language Toolkit.
 
 ![Word Count](images/word_count.png)
 
@@ -76,9 +76,9 @@ Visualization of the top **100** words in the dataset after text processing with
 ### Determining Sentiment
 I used the Natural Language Toolkit to determine polarity scores. Polarity scores can then be used to determine sentiment using the following scale:
 
-* Polarity greater than 0 is positive
-* Polarity equal to 0 is neutral
-* Polarity less than 0 is negative
+* Polarity **greater than** 0 is **positive**
+* Polarity **equal** to 0 is **neutral**
+* Polarity **less than** 0 is **negative**
 
 ![Polarity Histogram](images/polarity_histogram.png)
 
