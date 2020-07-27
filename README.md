@@ -6,24 +6,18 @@ Star Wars is one of the highest-grossing media franchises of all time. Star Wars
 ## Technology & Methods
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-### Natural Language Processing
-### K-Means Clustering
-### Correlation
+### Sentiment Analysis: Guest Feedback & Brand Monitoring
+I used the Natural Language Toolkit for sentiment analysis of guest feedback to capture the core market sentiment towards Star Wars: Galaxy's Edge and its individual experiences.
+
+### K-Means Clustering: Guest Feedback
+I used the k-means algorithm in the scikit-learn machine learning library to cluster guest feedback data.
+
+### Correlation: Survey Responses
 
 
-Customer feedback analysis is the most widespread application of sentiment analysis.
-Accurate audience targeting is essential for the success of any type of business.
-Well-made sentiment analysis algorithms can capture the core market sentiment towards a product. 
-You can also extend this use case for smaller sub-sections. eg. analyzing product reviews on your amazon store. 
-The more customer-driven a company is, the better sentiment analysis can be of service.
 
-Brand monitoring is another great use-case for Sentiment analysis. 
-Companies can use sentiment analysis to check the social media sentiment of their audience.
-KFC is a perfect example of a business that uses sentiment analysis to track, build, and enhance its brand. 
-KFC’s social media campaigns are a great contributing factor to its success. 
-KFC tailors its marketing campaigns to appeal to the young crowd and to be “present” in social media.
-Tools like Brandwatch can tell you if something negative about your brand is going viral. 
-Other brands that use social media to promote a positive brand sentiment include Amazon, Netflix, and Dominoes.
+
+
 
 ## Data Type
 There are 2 types of data: operational data and experience data. For this analysis, I used experience data.
