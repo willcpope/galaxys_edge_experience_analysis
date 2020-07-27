@@ -149,28 +149,25 @@ Google Trends also provides information about search topics and queries related 
 * Star Wars: Galaxy's Edge has had a very positive reception on Twitter with **88.8%** of Tweets being either positive or neutral and only **11.2%** of Tweets classified as negative.
 
 ### Rides Are Most Important - Especially Rise of the Resistance
-* The survey data shows that all age groups rank the rides as the most important experiences
-* Star Wars: Rise of the Resistance is rated the most important ride followed by Millennium Falcon: Smugglers Run
-* The sentiment analysis identified the words 'resistance' and 'rise' as the the **#2** and **#3** most used words while 'falcon' and 'millennium' were ranked **#14** and **#24** respectfully. Perhaps this is an indication that guests prefer a passive dark ride rather than an interactive experience
-* The k-means algorithm
+* The survey data shows that all age groups rank the rides as the most important experiences.
+* Star Wars: Rise of the Resistance is rated the most important ride followed by Millennium Falcon: Smugglers Run.
+* The sentiment analysis identified the words 'resistance' and 'rise' as the the **#2** and **#3** most used words while 'falcon' and 'millennium' were ranked **#14** and **#24** respectfully. Perhaps this is an indication that guests prefer a passive dark ride rather than an interactive experience.
+* The top words identified in 1 of the 3 k-means clusters were 'resistance', 'rise', and 'ride'.
 
 ### After Rides, Oga's Cantina is the Most Important Experience for Ages 18-24 and 35-44
-* After the rides, the survey data revealed that the 3 largest participating age groups ranging from **18-44** years old rank Oga's Cantina as the next most important experience
-* After the rides, the survey data revealed that both the youngest (**Under 18**) and oldest (**55-64**) participants prioritize shopping as most important
+* After the rides, the survey data revealed that the 3 largest participating age groups ranging from **18-44** years old rank Oga's Cantina as the next most important experience.
+* 'Cantina' was a top word identified in 2 of the 3 k-means clusters.
+* After the rides, the survey data revealed that both the youngest (**Under 18**) and oldest (**55-64**) participants prioritize shopping as most important.
 
 ### Savi's Workshop is An Important Experience
-* Savi's Workshop is the top shopping experience for **45-54**
-* Savi's Workshop and Droid Depot are tied for top shopping experience for **Under 18**
-* Savis's Workshop and Dok-Ondar's Den of Antiquities are tied for top shopping experience for **25-34** and **35-44**
-* Savis Workshop, Droid Depot, Dok-Ondar's Den of Antiquities, Black Spire Outfitters, and Toydarian Toymaker are all tied for top shopping experience for **55-64**
-* The popularity of Savi's Workshop can also be seen in the sentiment analysis as 'lightsaber' shows up as the **#10** most used word ranked above words referencing Millennium Falcon: Smugglers Run, Droid Depot and Oga's Cantina
+* Savi's Workshop is the top shopping experience for **45-54**.
+* Savi's Workshop and Droid Depot are tied for top shopping experience for **Under 18**.
+* Savis's Workshop and Dok-Ondar's Den of Antiquities are tied for top shopping experience for **25-34** and **35-44**.
+* Savis Workshop, Droid Depot, Dok-Ondar's Den of Antiquities, Black Spire Outfitters, and Toydarian Toymaker are all tied for top shopping experience for **55-64**.
+* The popularity of Savi's Workshop can also be seen in the sentiment analysis as 'lightsaber' shows up as the **#10** most used word ranked above words referencing Millennium Falcon: Smugglers Run, Droid Depot and Oga's Cantina.
 
 ### Correlations Between Savi's Workshop and Droid Depot
-* Based on the correlation matrix, there is a strong correlation in interest between Savi's Workshop and Droid Depot. This means that people who visit one of these shopping experience are highly likely to visit the other
-* The sentiment analysis shows that the word 'droid' ranks just ahead of 'cantina'
-* Google Trends data for Star Wars: Galaxy's Edge shows that of the most relevant top 25 related search topics, 'Lightsaber' is **#2**, 'Droid' is **#6**, 'Workshop' is **#10**, 'Saber' is **#11**, and 'Cantina' is **#12**
-
-
----
-* think about paying for a custom experience - booze, lightsaber - is that different from food though?
-* Clusters - Rise of the Resitance, Baatu, and general overall experience not rise
+* Based on the correlation matrix, there is a strong correlation in interest between Savi's Workshop and Droid Depot. This means that people who visit one of these shopping experience are highly likely to visit the other.
+* The sentiment analysis shows that the word 'droid' ranks just ahead of 'cantina'.
+* Top words identified in 2 of the 3 k-means clusters were 'lightsaber', and 'droid'.
+* Google Trends data for Star Wars: Galaxy's Edge shows that of the most relevant top 25 related search topics, 'Lightsaber' is **#2**, 'Droid' is **#6**, 'Workshop' is **#10**, 'Saber' is **#11**, and 'Cantina' is **#12**.
