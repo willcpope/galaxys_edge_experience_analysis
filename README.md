@@ -3,6 +3,14 @@ The goal of this analysis was to explore guest feedback about Star Wars: Galaxy'
 
 Star Wars is one of the highest-grossing media franchises of all time. Star Wars: Galaxy's Edge is one of the most ambitous and immersive experiences ever created and the largest themed areas at Disney Parks. It opened at Disneyland in Anaheim, California on May 31, 2019 and Hollywood Studios at Walt Disney World in Orlando, Florida on August 29, 2019. Each of these 2 themed areas cost an estimated $1 billion and feature over 14 acres of attractions, shops, and restaurants.
 
+## Methods
+Customer feedback analysis is the most widespread application of sentiment analysis. Direct customer feedback is gold for businesses, especially startups. Accurate audience targeting is essential for the success of any type of business.
+Well-made sentiment analysis algorithms can capture the core market sentiment towards a product. You can also extend this use case for smaller sub-sections. eg. analyzing product reviews on your amazon store. The more customer-driven a company is, the better sentiment analysis can be of service.
+
+Brand monitoring is another great use-case for Sentiment analysis. Companies can use sentiment analysis to check the social media sentiment of their audience.
+KFC is a perfect example of a business that uses sentiment analysis to track, build, and enhance its brand. KFC’s social media campaigns are a great contributing factor to its success. KFC tailors its marketing campaigns to appeal to the young crowd and to be “present” in social media.
+Tools like Brandwatch can tell you if something negative about your brand is going viral. Other brands that use social media to promote a positive brand sentiment include Amazon, Netflix, and Dominoes.
+
 ## Data Type
 There are 2 types of data: operational data and experience data. For this analysis, I used experience data.
 
@@ -141,37 +149,28 @@ Google Trends also provides information about search topics and queries related 
 ### Star Wars: Galaxy's Edge is Popular
 * Star Wars: Galaxy's Edge has had a very positive reception on Twitter with 88.8% of Tweets being either positive or neutral and only 11.2% of Tweets classified as negative.
 
-### Rides Are Most Important
+### Rides Are Most Important - Especially Rise of the Resistance
 * The survey data shows that all age groups rank the rides as the most important experiences
+* Star Wars: Rise of the Resistance is rated the most important ride followed by Millennium Falcon: Smugglers Run
+* The sentiment analysis identified the words 'resistance' and 'rise' as the the #2 and #3 most used words while 'falcon' and 'millennium' were ranked #14 and #24 respectfully. Perhaps this is an indication that guests prefer a passive dark ride rather than an interactive experience.
 
-
-### Oga's Cantina is an Important Experience for Ages 18-44
+### After Rides, Oga's Cantina is the Most Important Experience for Ages 18-24 and 35-44
 * After the rides, the survey data revealed that the 3 largest participating age groups ranging from 18-44 years old rank Oga's Cantina as the next most important experience
-
-### Shopping Experiences
 * After the rides, the survey data revealed that both the youngest (Under 18) and oldest (55-64) participants prioritize shopping as most important
+
+### Savi's Workshop is An Important Experience
 * Savi's Workshop is the top shopping experience for 45-54
 * Savi's Workshop and Droid Depot are tied for top shopping experience for Under 18
 * Savis's Workshop and Dok-Ondar's Den of Antiquities are tied for top shopping experience for 25-34 and 35-44
 * Black Spire Outfitters, Dok-Ondar's Den of Antiquities, Droid Depot, Savi's Workshop, and Toydarian Toymaker are all tied for top shopping experience for 55-64
-
 * The popularity of Savi's Workshop can also be seen in the sentiment analysis as 'lightsaber' shows up as the #10 most used word ranked above words referencing Millennium Falcon: Smugglers Run, Droid Depot and Oga's Cantina.
-* The sentiment analysis shows that the word 'droid' ranks just ahead of 'cantina'.
-* Google Trends data for Star Wars: Galaxy's Edge shows that of the most relevant top 25 related search topics, 'Lightsaber' is #2, 'Droid' is #6, 'Workshop' is #10, 'Saber' is #11, and 'Cantina' is #12
 
-### Savi's Workshop is Most Popular Shopping Experience
 
 ### Correlations Between Savi's Workshop and Droid Depot
 * Based on the correlation matrix, there is a strong correlation in interest between Savi's Workshop and Droid Depot. This means that people who visit one of these shopping experience are highly likely to visit the other
+* The sentiment analysis shows that the word 'droid' ranks just ahead of 'cantina'.
+* Google Trends data for Star Wars: Galaxy's Edge shows that of the most relevant top 25 related search topics, 'Lightsaber' is #2, 'Droid' is #6, 'Workshop' is #10, 'Saber' is #11, and 'Cantina' is #12
 
-
-
-### Rise of the Resistance is the Most Popular Ride
-* Star Wars: Rise of the Resistance is rated the most important ride followed by Millennium Falcon: Smugglers Run
-* The sentiment analysis identified the words 'resistance' and 'rise' as the the #2 and #3 most used words while 'falcon' and 'millennium' were ranked #14 and #24 respectfully. Perhaps this is an indication that guests prefer a passive dark ride rather than an interactive one.
-
-
-### Droid Depot and Oga's Cantina Are Also Important
 
 ---
 * think about paying for a custom experience - booze, lightsaber - is that different from food though?
