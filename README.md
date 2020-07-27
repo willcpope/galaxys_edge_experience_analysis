@@ -101,7 +101,7 @@ Overall Sentiment Scores:
 ![Negative Cloud](images/negative_cloud.png)
 
 ## Clustering
-To further analyze the processed text from the Twitter dataset, I used the k-means clustering algorithm with the scikit-learn machine learning library. K-means clustering is a type of unsupervised learning used with unlabeled data. The goal of this algorithm is to group similar data points together and discover underlying patterns.
+To further analyze the processed text from the Twitter dataset, I used the k-means clustering algorithm. K-means clustering is a type of unsupervised learning used with unlabeled data. The goal of this algorithm is to group similar data points together and discover underlying patterns.
 
 ### Determining the Number of Clusters
 The first step was determing the number of clusters for this dataset. To do this, I used the elbow method, visualized below, which shows that **3** is the optimal number of clusters.
