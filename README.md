@@ -32,16 +32,7 @@ For this analysis, I focused on experience data collected from:
 * Google Trends
 
 ## Online Survey Data
-I created a survey using Google Forms and collected **165** responses from various Reddit subreddits including: 
-
-* r/StarWars 
-* r/WaltDisneyWorld 
-* r/disneyparks 
-* r/DisneyWorld 
-* r/Disneybound 
-* r/GalaxiesEdge 
-* r/DisneyTravel 
-* r/Disneyland
+I created a survey using Google Forms and collected **165** responses from various Reddit subreddits.
 
 ### Age Groups of Survey Participants
 The pie chart visualizes the age groups of survey participants. **25-34** is the largest age group who participated in the survey followed by the adjacent age groups **18-24** and **35-44**. The 2 smallest participating age groups are the youngest (**Under 18**) and the oldest (**55-64**).
